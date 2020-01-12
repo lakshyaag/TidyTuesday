@@ -1,6 +1,6 @@
 # TidyTuesday
 
-A repository of my take on [`#tidytuesdays`](github.com/rfordatascience/tidytuesday/) by `R for Data Science`
+A repository of my take on [`#tidytuesdays`](https://github.com/rfordatascience/tidytuesday/) by `R for Data Science`
 
 ## Submissions
 
